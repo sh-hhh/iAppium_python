@@ -1,8 +1,8 @@
 {
     "desired_caps": {
         "platformName": "Android",
-        "deviceName": "<your device name>",
-        "udid": "<your device udid>",
+        "deviceName": "DLS4C20525007740",
+        "udid": "DLS4C20525007740",
         "noReset": "false",
         "automationName": "UiAutomator2",
         "appPackage": "com.example.android.contactmanager",
